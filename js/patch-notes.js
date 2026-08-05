@@ -61,7 +61,7 @@
   }
 
   function getPatches() {
-    var notes = window.AstralDexPatchNotes;
+    var notes = window.OoushiiDexPatchNotes;
     if (!notes || !notes.length) return [];
     return notes;
   }

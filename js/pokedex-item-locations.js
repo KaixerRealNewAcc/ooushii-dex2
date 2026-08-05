@@ -1142,7 +1142,7 @@ var PokedexItemLocationsPanel = Panels.Panel.extend({
 		if (this.showCategoryFilters && !isItemLocationCategoryAvailable(this.categoryFilters, this.activeCategory)) this.activeCategory = 'all';
 
 		var buf = '<div class="pfx-body"><form class="pokedex">';
-		buf += '<h1><a href="/" data-target="replace">Astral Emerald Pok&eacute;dex</a></h1>';
+		buf += '<h1><a href="/" data-target="replace">Ooushii Pok&eacute;dex</a></h1>';
 		buf += '<h4>Modified from <a href="https://dex.pokemonshowdown.com/">Pok&eacute;mon Showdown Dex</a> for Porydex</h4>';
 		buf += renderPokedexMainTabBar(this.mainTabRoute || 'itemlocations/');
 		buf += '<div class="searchboxwrapper"><input class="textbox searchbox" type="search" name="q" value="" autocomplete="off" autofocus placeholder="' + Dex.escapeHTML(this.searchPlaceholder || 'Filter by location, item, move, or requirement') + '" /></div>';

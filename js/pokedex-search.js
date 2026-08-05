@@ -19,7 +19,7 @@ var PokedexSearchPanel = Panels.Panel.extend({
 	initialize: function () {
 		var fragment = normalizePokedexMainTabFragment(this.fragment);
 		var buf = '<div class="pfx-body"><form class="pokedex">';
-		buf += '<h1><a href="/" data-target="replace">Astral Emerald Pok&eacute;dex</a></h1>';
+		buf += '<h1><a href="/" data-target="replace">Ooushii Pok&eacute;dex</a></h1>';
         buf += '<h4>Modified from <a href="https://dex.pokemonshowdown.com/">Pok&eacute;mon Showdown Dex</a> for Porydex</h4>';
 		buf += renderPokedexMainTabBar(fragment);
 		buf += '<div class="searchboxwrapper"><input class="textbox searchbox" type="search" name="q" value="' + Dex.escapeHTML(this.$('.searchbox').val() || '') + '" autocomplete="off" autofocus placeholder="Search Pok&eacute;mon, moves, abilities, items, types, or more" /></div>';
