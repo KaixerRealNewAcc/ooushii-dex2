@@ -23682,7 +23682,7 @@ exports.BattlePokedex = {
         "evos": [
             "Grotle"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "grotle": {
         "num": 388,
@@ -23727,7 +23727,7 @@ exports.BattlePokedex = {
         "evos": [
             "Torterra"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "torterra": {
         "num": 389,
@@ -23770,7 +23770,7 @@ exports.BattlePokedex = {
         "prevo": "Grotle",
         "evoType": "levelFriendship",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "chimchar": {
         "num": 390,
@@ -23811,7 +23811,7 @@ exports.BattlePokedex = {
         "evos": [
             "Monferno"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "monferno": {
         "num": 391,
@@ -23857,7 +23857,7 @@ exports.BattlePokedex = {
         "evos": [
             "Infernape"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "infernape": {
         "num": 392,
@@ -23901,7 +23901,7 @@ exports.BattlePokedex = {
         "prevo": "Monferno",
         "evoType": "levelFriendship",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "piplup": {
         "num": 393,
@@ -23942,7 +23942,7 @@ exports.BattlePokedex = {
         "evos": [
             "Prinplup"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "prinplup": {
         "num": 394,
@@ -23986,7 +23986,7 @@ exports.BattlePokedex = {
         "evos": [
             "Empoleon"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "empoleon": {
         "num": 395,
@@ -24028,7 +24028,7 @@ exports.BattlePokedex = {
         "prevo": "Prinplup",
         "evoType": "levelFriendship",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "starly": {
         "num": 396,
