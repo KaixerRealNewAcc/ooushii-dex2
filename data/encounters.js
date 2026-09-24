@@ -15,18 +15,21 @@ exports.BattleLocationdex = {
             1
         ],
         "surf": [
-            30,
-            30,
             20,
-            10,
-            10
+            20,
+            20,
+            20,
+            20
         ],
         "rock": [
-            30,
-            30,
             20,
-            10,
-            10
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20
         ],
         "fish": {
             "old": [],
@@ -57,17 +60,17 @@ exports.BattleLocationdex = {
             ],
             "encs": [
                 {
-                    "species": "chikorita",
+                    "species": "turtwig",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "tepig",
+                    "species": "chimchar",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "totodile",
+                    "species": "piplup",
                     "minLvl": 5,
                     "maxLvl": 5
                 }
@@ -174,65 +177,65 @@ exports.BattleLocationdex = {
             "baseRate": 20,
             "encs": [
                 {
-                    "species": "zigzagoongalar",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "aipom",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "fletchling",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "pikipek",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "phanpy",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "smoliv",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "stufful",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "ekans",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "pawmi",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "marill",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "cufant",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "cufant",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                }
+                "min_level": 5,
+                "max_level": 5,
+                "species": "starly"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "stufful"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "aipom"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "zigzagoongalar"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "pikipek"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "litleo"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "smoliv"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "sentret"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "munchlax"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "minccino"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "spinda"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "spinda"
+              }
             ]
         },
         "surf": {},
