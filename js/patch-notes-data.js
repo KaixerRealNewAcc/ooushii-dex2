@@ -3,12 +3,12 @@ window.OoushiiDexPatchNotes = [
   {
     version: "vB-0.0.1",
     date: "", //Change this to the date of the patch.
-    title: "Pokemon Ooushii Emerald B-0.0.1",
+    title: "Pokemon Dynastic Emerald B-0.0.1",
     sections: [
       {
         heading: "Overview",
         items: [
-          "On a new version of Expansion ( , ).",
+          "On a new version of Expansion.",
           "There might be undocumented changes since a lot has changed.",
           "Custom AI has been added. AI doc is being worked on.",
           "Credit: @Midnight on Discord (report AI questions/bugs to him)."

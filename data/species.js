@@ -23722,8 +23722,8 @@ exports.BattlePokedex = {
         "heightm": 1.1,
         "weightkg": 97.0,
         "prevo": "Turtwig",
-        "evoType": "levelFriendship",
-        "evoCondition": "",
+        "evoType": "level",
+        "evoCondition": "16",
         "evos": [
             "Torterra"
         ],
@@ -23768,8 +23768,8 @@ exports.BattlePokedex = {
         "heightm": 2.2,
         "weightkg": 310.0,
         "prevo": "Grotle",
-        "evoType": "levelFriendship",
-        "evoCondition": "",
+        "evoType": "level",
+        "evoCondition": "36",
         "tier": "obtainable"
     },
     "chimchar": {
@@ -23785,9 +23785,6 @@ exports.BattlePokedex = {
         "types": [
             "Fire"
         ],
-        "evYields": {
-            "spe": 1
-        },
         "items": {},
         "eggGroups": [
             "Field",
@@ -23827,10 +23824,6 @@ exports.BattlePokedex = {
             "Fire",
             "Fighting"
         ],
-        "evYields": {
-            "spe": 1,
-            "spa": 1
-        },
         "items": {},
         "eggGroups": [
             "Field",
@@ -23852,8 +23845,8 @@ exports.BattlePokedex = {
         "heightm": 0.9,
         "weightkg": 22.0,
         "prevo": "Chimchar",
-        "evoType": "levelFriendship",
-        "evoCondition": "",
+        "evoType": "level",
+        "evoCondition": "16",
         "evos": [
             "Infernape"
         ],
@@ -23873,11 +23866,6 @@ exports.BattlePokedex = {
             "Fire",
             "Fighting"
         ],
-        "evYields": {
-            "atk": 1,
-            "spe": 1,
-            "spa": 1
-        },
         "items": {},
         "eggGroups": [
             "Field",
